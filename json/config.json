@@ -1,7 +1,7 @@
 {
-    "auth": false,
-    "username": "root",
-    "password": "435b41068e8665513a20070c033b08b9c66e4332",
+    "auth": true,
+    "username": "kashish",
+    "password": "cea8d0d72c73c171b4bd17e325d786ceb095eb0d",
     "analytics": true,
     "diff": true,
     "zip" : true,
